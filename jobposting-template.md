@@ -19,7 +19,6 @@
 ## Requirements
 # Company
 * *Mention the company’s mission, industry, and culture in 2–3 sentences.*
-* *Mention the company’s mission, industry, and culture in 2–3 sentences.*
 * *Add an Equal Employment Opportunity (EEO) statement to show your commitment to diversity and inclusion.*
 * *Avoid gendered language or qualifications that unnecessarily narrow the candidate pool (e.g., “10+ years of experience” for a mid-level role).*
 ## Benefits
